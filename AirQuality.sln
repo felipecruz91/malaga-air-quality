@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirQuality.FunctionApp", "AirQuality.FunctionApp\AirQuality.FunctionApp.csproj", "{1494A62E-50E3-4D9D-8A24-E367B7A9EDCB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1494A62E-50E3-4D9D-8A24-E367B7A9EDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1494A62E-50E3-4D9D-8A24-E367B7A9EDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1494A62E-50E3-4D9D-8A24-E367B7A9EDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1494A62E-50E3-4D9D-8A24-E367B7A9EDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
